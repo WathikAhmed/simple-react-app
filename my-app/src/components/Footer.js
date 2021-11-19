@@ -28,7 +28,7 @@ return (
 		</Column>
 		<Column>
 			<Heading>Contact Us</Heading>
-			<FooterLink href="#">WathikAhmed</FooterLink>
+			<FooterLink href="https://github.com/WathikAhmed">WathikAhmed</FooterLink>
 		</Column>
 		<Column>
 			<Heading>Social Media</Heading>
